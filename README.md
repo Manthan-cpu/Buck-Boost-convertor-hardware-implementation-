@@ -188,6 +188,4 @@ Minor differences were caused by:
 - Industrial automation
 - Portable instrumentation
 
----
 
-## Repository Contents
